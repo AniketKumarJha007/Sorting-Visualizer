@@ -12,6 +12,6 @@
 
  - [Deployment Link](https://sorting-visualizer-two-rust.vercel.app/)
 
- ## Deployment
+ ## Screenshot
 
 ![image](https://github.com/user-attachments/assets/88f1b889-47c7-45bc-a8e4-d433d5cdc34d)
