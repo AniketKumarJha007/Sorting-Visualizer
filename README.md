@@ -1,4 +1,4 @@
-# Sorting visualizer
+# Sorting Visualizer
 
 - Developed an Interactive sorting visualizer that offers real-time visual demonstrations to enhance learning.
 - Implemented multiple sorting algorithms including Bubble Sort, Insertion Sort, Merge Sort, Selection Sort, Quick Sort.
